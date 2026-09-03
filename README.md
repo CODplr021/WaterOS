@@ -42,7 +42,7 @@ To take this project from a personal mod to a fully functional, stable community
 *(Note: Add your specific flashing instructions below as the project develops)*
 
 1. Download the correct zip file for your device.
-2. Reboot to your custom recovery (TWRP/OrangeFox).
+2. Reboot to your custom recovery (TWRP/OrangeFox) or use fastboot (Which I used).
 3. Wipe Data, Cache, and Dalvik.
 4. Flash the WaterOS zip file.
 5. Reboot and enjoy!
