@@ -50,3 +50,4 @@ To take this project from a personal mod to a fully functional, stable community
 ## 🤝 Contributing & Support
 If you are interested in joining the team as a device maintainer or tester, please open an issue or submit a pull request. 
 Or contact "jumilk09@outlook.com"
+Made possible with phh-treble.
