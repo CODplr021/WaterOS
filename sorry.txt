@@ -1,0 +1,2 @@
+You know what makes me so mad, i had to delete 2 files that was over 100 
+MB, it still wont push my source code, if there is any ways lease tell me
